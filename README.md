@@ -16,6 +16,7 @@ Test project to try out branches and PRs
 
 - id
 - nome
-- cognome
-- eta
-- codice fiscale
+- professione
+- citta
+- paese
+

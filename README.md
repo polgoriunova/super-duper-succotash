@@ -1,3 +1,13 @@
 # super-duper-succotash
 
-test test test
+Test project to try out branches and PRs
+
+## Ruoli
+
+- Tinker
+- [ ] Tailor
+- Soldier
+- Spy
+    - russian spy
+    - american spy
+    - british spy

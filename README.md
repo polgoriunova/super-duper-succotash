@@ -11,3 +11,11 @@ Test project to try out branches and PRs
     - russian spy
     - american spy
     - british spy
+
+## Anagrafica
+
+- id
+- nome
+- cognome
+- eta
+- codice fiscale

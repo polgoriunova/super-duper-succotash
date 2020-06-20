@@ -12,6 +12,7 @@ Test project to try out branches and PRs
     - american spy
     - british spy
 
+
 ## Contratto
 
 - id
@@ -19,3 +20,13 @@ Test project to try out branches and PRs
 - data inizio
 - data fine
 - ral
+
+## Anagrafica
+
+- id
+- nome
+- professione
+- citta
+- paese
+
+

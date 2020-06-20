@@ -11,3 +11,11 @@ Test project to try out branches and PRs
     - russian spy
     - american spy
     - british spy
+
+## Contratto
+
+- id
+- anagrafica
+- data inizio
+- data fine
+- ral

@@ -1,6 +1,7 @@
 # super-duper-succotash
 
-test test test
+Test project to try out branches and PRs
+
 ## Ruoli
 
 - Tinker
